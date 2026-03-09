@@ -237,6 +237,6 @@ InfoTab:CreateLabel("Created by goritt & jordan (the one who never helps)")
 
 Rayfield:Notify({
    Title = "Netcheat",
-   Content = ".",
+   Content = "https://github.com/catowner-sudo/Netcheat",
    Duration = 5
 })
